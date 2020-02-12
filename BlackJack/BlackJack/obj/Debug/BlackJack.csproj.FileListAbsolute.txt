@@ -1,0 +1,6 @@
+C:\Users\fwett\source\repos\Projects\BlackJack\BlackJack\bin\Debug\BlackJack.exe.config
+C:\Users\fwett\source\repos\Projects\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+C:\Users\fwett\source\repos\Projects\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+C:\Users\fwett\source\repos\Projects\BlackJack\BlackJack\obj\Debug\BlackJack.csprojAssemblyReference.cache
+C:\Users\fwett\source\repos\Projects\BlackJack\BlackJack\obj\Debug\BlackJack.exe
+C:\Users\fwett\source\repos\Projects\BlackJack\BlackJack\obj\Debug\BlackJack.pdb
